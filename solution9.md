@@ -1,4 +1,5 @@
-- ssh ssh -i tcrc8_ssh tcrc8@52.172.253.159
-- password: tcrcCTF{chattr_if_you_want_full_control}
+- ssh ssh -i tcrc8\_ssh tcrc8@52.172.253.159
+- password: tcrcCTF{chattr\_if\_you\_want\_full\_control}
 - steghide extract -sf flag.jpg
-- cat tcrcCTF{its_steganography_3030} 
+- password is same as the ssh login 
+- cat tcrcCTF{its\_steganography\_3030} 
