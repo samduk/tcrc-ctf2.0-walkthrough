@@ -1,0 +1,7 @@
+- ssh -i tcrc6\_ssh tcrc6@52.172.253.159
+- password: tcrcCTF{branch\_and\_master\_are\_different\_until\_merged}
+- git clone git@github.com:TCRC-Dev/ctf2.git
+- cd ctf2
+- git tag 
+- git show secret 
+- tcrcCTF{git\_tag\_is\_useful\_to\_create\_reference}

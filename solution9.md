@@ -1,0 +1,3 @@
+- ssh ssh -i tcrc8_ssh tcrc8@52.172.253.159
+- password: tcrcCTF{chattr_if_you_want_full_control}
+- steghide extract -sf flag.jpg 

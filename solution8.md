@@ -1,0 +1,9 @@
+- ssh -i tcrc7\_ssh tcrc7@52.172.253.159
+- password: tcrcCTF{itsthealphabets}
+- cd samdup 
+- ls -l
+- sudo -l 
+- sudo chattr -i samdup.md 
+- chmod 644 samdup.md 
+- cat samdup.md 
+- tcrcCTF{chattr\_if\_you\_want\_full\_control}
